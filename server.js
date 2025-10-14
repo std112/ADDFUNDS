@@ -9,7 +9,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 const PORT = 3000;
-const STEAM_API_KEY = 'D71C09AA4CB79F55A8E9363B5CDC439F'; // Your Steam API Key
+const STEAM_API_KEY = '1B4856CFBA68612FD0E4B3EA04FDB7CE'; // Your Steam API Key
 
 // Load balances from file
 function loadBalances() {
